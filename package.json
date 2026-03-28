@@ -21,7 +21,7 @@
     "@angular/platform-browser-dynamic": "~7.2.0",
     "@angular/router": "~7.2.0",
     "core-js": "^2.5.4",
-    "firebase-tools": "^7.0.2",
+    "firebase-tools": "^15.12.0",
     "font-awesome": "^4.7.0",
     "ngx-smart-modal": "^7.1.1",
     "node-gyp": "^5.0.1",
@@ -31,7 +31,7 @@
     "zone.js": "~0.8.26"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "~0.12.0",
+    "@angular-devkit/build-angular": "~21.2.5",
     "@angular/cli": "~7.2.3",
     "@angular/compiler-cli": "~7.2.0",
     "@angular/language-service": "~7.2.0",
